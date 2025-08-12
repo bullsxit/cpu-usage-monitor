@@ -28,6 +28,6 @@ APPS USED:
  - Text Editor (Notepad, VScode...)
 
 INSTALLATION:
-check the ["installation-steps" file  ](https://github.com/bullsxit/cpu-usage-monitor/blob/main/installation-steps)
+check the [installation-steps](https://github.com/bullsxit/cpu-usage-monitor/blob/main/installation-steps)
 
 
