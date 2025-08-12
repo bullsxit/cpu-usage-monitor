@@ -1,6 +1,8 @@
 # cpu-usage-monitor
 Micro-scheme that displays CPU usage
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/b90ac04a-484e-4e61-836c-ba8a5c682b4c" />
+
 
 ITEMS NEDEED:
 
