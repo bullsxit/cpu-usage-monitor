@@ -1,0 +1,43 @@
+1. Wiring
+Connect the SSD1306 display to the ESP8266 as described in ReadMe.md.
+
+Plug the ESP8266 into your PC via USB.
+
+2. Identify COM Port
+Open Arduino IDE.
+
+Navigate to:
+
+Tools → Port
+
+Note the COM port (e.g., COM4).
+
+3. Update Python Script
+Open pc_monitor.py.
+
+Find SERIAL_PORT (line 5).
+
+Replace it with your ESP8266’s COM port (e.g., "COM4").
+
+4. Upload Arduino Code
+Open the provided Arduino sketch for the ESP8266.
+
+Upload it to the board.
+
+Close Arduino IDE afterward to free the COM port.
+
+5. Install Python Dependencies
+Run in Command Prompt/PowerShell/Terminal:
+
+pip install psutil pyserial
+
+6. Run the Python Script
+Open a terminal in the folder containing pc_monitor.py.
+
+Execute:
+python pc_monitor.py
+
+7. View Output
+The ESP8266 will display:
+
+CPU Usage (%)
