@@ -27,5 +27,7 @@ APPS USED:
  - Arduino Ide
  - Text Editor (Notepad, VScode...)
 
+INSTALLATION:
+check the ["installation-steps" file  ](https://github.com/bullsxit/cpu-usage-monitor/blob/main/installation-steps)
 
 
